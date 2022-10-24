@@ -1,0 +1,62 @@
+/** basics **/
+body {
+    
+    background-image: url(https://i.pinimg.com/originals/af/32/ae/af32ae71d16e8056403345294c14bbec.jpg);
+    background-attachment: fixed;
+    
+    background-size: cover;
+    background-position: center;
+    font-size: 12px;
+    
+    font-family: pt mono;
+}
+*{
+      
+    text-align: center;
+    
+}
+
+#imgPerfil{
+
+    border-radius: 2500px;
+    border: solid 4px; 
+    border-color: rgb(96, 89, 126);
+    
+}
+
+.titulos{
+    font-size: 200%;
+
+    font-family: oswald;
+    
+    
+}
+h1{
+    font-size: 300%;
+    font-family: sofia;
+
+ }
+
+#biografia{
+    width: 990px; ;
+    text-align: center;
+    font-family: oswald;
+}
+#links{
+     
+        background-color: rgb(96, 89, 126);
+        border-radius: 100px;
+        display: block;
+        
+}
+#Discografia{
+    display: inline-block;
+    font-family: oswald;
+}
+
+#Filmografia{
+    display: inline-block;
+    font-family: oswald;
+    font-size: 130%;
+
+}
